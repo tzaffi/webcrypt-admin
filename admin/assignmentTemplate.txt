@@ -1,0 +1,6 @@
+4 Caesar 1000 5 10 dummyasgnmt
+C:\Windows\DESKTOP\Teaching\crypto\examples\MDline.txt C:\Windows\DESKTOP\Teaching\crypto\admin\assignments C:\Windows\DESKTOP\Teaching\crypto\admin\solutions 
+student1 password1 key1
+student2 password2 key2
+student3 password3 key3
+student4 password4 key4

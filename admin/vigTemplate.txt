@@ -1,0 +1,6 @@
+4 Vigenere 1000 5 10 dummyasgnmt.txt
+C:\Windows\DESKTOP\Teaching\crypto\examples\MDline.txt C:\Windows\DESKTOP\Teaching\crypto\admin\assignments C:\Windows\DESKTOP\Teaching\crypto\admin\solutions 
+student1 password1 hello
+student2 password2 goodbye
+student3 password3 what
+student4 password4 next
